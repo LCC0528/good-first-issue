@@ -1,6 +1,6 @@
 # Contributing to Good First Issue
 
-Thanks for your interest in contributing! This guide will help you get started.
+Thanks for your interest in contributing! This guide will help you get started .
 
 ## Prerequisites
 
